@@ -1,0 +1,25 @@
+{
+  "name": "random-number",
+  "version": "1.0.0",
+  "description": "get random number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishbabu026/angular.git"
+  },
+  "keywords": [
+    "random"
+  ],
+  "author": "Ashish Babu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishbabu026/angular/issues"
+  },
+  "homepage": "https://github.com/ashishbabu026/angular#readme",
+  "dependencies": {
+    "randomize": "^0.0.4"
+  }
+}
